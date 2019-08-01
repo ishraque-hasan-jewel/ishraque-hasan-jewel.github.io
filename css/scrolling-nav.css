@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Oswald:300,400,500,600,700');
+
+.navbar .navbar-brand {
+	color: #636e72;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+header {
+  padding: 156px 0 100px;
+}
+
+.head{
+	background-color: #FFEFD5;
+	color: #2d3436;
+	font-family: 'Oswald', sans-serif; 
+
+}
+.head h1{
+	font-size: 100px;
+}
+
+
+
+#Home{
+	background:url('../image/home/home.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.H-overly{
+	background: rgba(0, 0, 0, .60);
+	padding: 88px 0px;
+}
+
+#Home .H-content h2{
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	color: #dfe6e9;
+}
+
+#Home .H-content h1{
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #dfe6e9;
+	font-weight: 700;
+	padding-bottom: 30px;
+	padding-top: 15px;
+}
+#Home .H-content p{
+	font-size: 13px;
+	color:#dfe6e9;
+	line-height: 30px;
+	margin-bottom: 34px;
+}
+
+
+}
+
+
+#About{
+	background-color: #BDB76B;
+}
+#About .common-heading h1{
+	padding-top: 80px;
+	padding-bottom: 85px;
+}
+#About .edu-item{
+	background-color: #BDB76B;
+	transition: all linear .3s;
+}
+
+
+
+.edu-item .edu-com{
+	padding: 50px 10px 20px ;
+	background-color: #BDB76B;
+
+}
+
+.edu-item .edu-com p{
+	margin-left: 30px;
+	color: #dfe6e9;
+}
+
+#About .edu-item:hover{
+	box-shadow: 0px 0px 20px #dfe6e9;
+}
+
+.edu-item:hover .edu-icon-2 ,
+.edu-item:hover .edu-icon {
+	background-color: #7f8c8d;
+}
+
+#Scrool{
+	background-color: #FFFFFF;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+
+
+#Text&Picture{
+  background-color: #FFFFFF;
+ 
+}
+
+
+.copyright{
+  background: #2d3436 ;
+  color: #dfe6e9;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
