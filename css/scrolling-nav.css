@@ -23,7 +23,6 @@ header {
 
 
 #Home{
-	background:url('../image/home/home.jpg');
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat;
